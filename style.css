@@ -7,7 +7,7 @@ body {
   }
   .navbar{
       max-height: 50px; 
-      background-color: #ffffff; 
+      background-color: #d38e8e; 
       font-size: 15px; 
   }
   
@@ -68,8 +68,8 @@ body {
   }
   
   .imageNav-content {
-      margin-top: 30px;
-      margin-bottom: 15px;
+      margin-top: 15px;
+      margin-bottom: 4px;
       padding: 10px 30px 40px;
       color: black;
       background-color: white;
