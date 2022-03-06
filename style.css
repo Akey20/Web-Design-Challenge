@@ -8,6 +8,7 @@ body {
   .navbar{
       max-height: 50px; 
       background-color: #d38e8e; 
+      font-weight: bold;
       font-size: 15px; 
   }
   
